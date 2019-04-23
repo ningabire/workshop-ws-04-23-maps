@@ -350,7 +350,10 @@ Now, just run `surge`! And you're done!
 * https://www.fullstackreact.com/articles/how-to-write-a-google-maps-react-component/#the-map-container-component
 * https://medium.freecodecamp.org/what-is-an-api-in-english-please-b880a3214a82
 * https://scotch.io/tutorials/react-apps-with-the-google-maps-api-and-google-maps-react
-
+* http://ledeprogram.com/2015/absolutely-everything-you-need-to-know-about-mapping-tools/
+* https://www.mapbox.com/#ar
+* https://www.codementor.io/victorgerardtemprano/pros-and-cons-of-using-mapbox-for-your-project-dx04pfgxw
+* https://www.toptal.com/web/the-roadmap-to-roadmaps-a-survey-of-the-best-online-mapping-tools
 
 ## Link to our PowerPoint
 
